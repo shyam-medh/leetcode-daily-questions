@@ -20,6 +20,8 @@ Output: -1
 Explanation: 4 is less than twice the value of 3, so we return -1.
 */
 
+//                                                        Solution: 👇
+
 class Solution {
     public int dominantIndex(int[] nums) {
         

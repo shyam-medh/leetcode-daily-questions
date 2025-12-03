@@ -17,6 +17,8 @@ The number of nodes in the list is in the range [0, 300].
 The list is guaranteed to be sorted in ascending order.
 */
 
+//                                                        Solution: 👇
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {

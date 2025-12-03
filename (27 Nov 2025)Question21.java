@@ -25,6 +25,8 @@ The number of nodes in both lists is in the range [0, 50].
 Both list1 and list2 are sorted in non-decreasing order.
  */
 
+//                                                        Solution: 👇
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {

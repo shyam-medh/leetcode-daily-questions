@@ -33,6 +33,8 @@ Constraints:
 
 */
 
+//                                                        Solution: 👇
+
 class Solution {
     public int minOperations(int[] nums, int k) {
         int ans = 0; 
