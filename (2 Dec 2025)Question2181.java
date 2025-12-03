@@ -33,7 +33,7 @@ There are no two consecutive nodes with Node.val == 0.
 The beginning and end of the linked list have Node.val == 0.
 */
 
-
+//                                                        Solution: 👇
 
 /**
  * Definition for singly-linked list.
