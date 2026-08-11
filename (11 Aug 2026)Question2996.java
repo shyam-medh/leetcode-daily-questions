@@ -25,6 +25,7 @@ Constraints:
 
 //                                                         Solution 👇
 
+
 class Solution {
     public int missingInteger(int[] nums) {
         int sum = nums[0], n = nums.length;
